@@ -8,3 +8,12 @@
 
 <h3><li>Python</li></h3>
 
+<h2>Pacotes</h2>
+
+<h3><li>Pyttsx3</li></h3>
+<h3><li>tkinter</li></h3>
+<h3><li>Openai</li></h3>
+
+<H2>Como rodar o projeto</H2>
+
+<p>Para rodar o projeto você deve rodar em uma maquina com python instalado uma ide ou compilador python e executar o script.</p>
